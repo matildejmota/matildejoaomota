@@ -33,6 +33,6 @@ My current projects study:
 - **Social norms, job attributes and the marriage market in Jordan**, financed by the International Growth Centre.
 - **Militarisation and gender inequality**, using evidence from Ecuador's internal armed conflict.
 
-I am a member of UNU-MERIT's Social Protection and Development Economics research groups, the Dutch Development Economics network and the UNU Mainstreaming Gender in Research (MaGIR) network. Alongside the PhD, I work as an external researcher with the European University Institute and I contribute to UNICEF Evaluation Office's Youth Advisory Group.
+I am a member of UNU-MERIT's Development Economics and Social Protection andresearch groups, the Dutch Development Economics network and the UNU Mainstreaming Gender in Research (MaGIR) network. Alongside the PhD, I often work as an external researcher with the European University Institute and I contribute to UNICEF Evaluation Office's Youth Advisory Group.
 
 
