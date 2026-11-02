@@ -2,33 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Researcher in Economics · <a href='https://www.merit.unu.edu'>UNU-MERIT</a> / <a href='https://www.maastrichtuniversity.nl'>Maastricht University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Maastricht, the Netherlands</p>
+    <p><a href="mailto:joaomota@merit.unu.edu">joaomota@merit.unu.edu</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # set to true once you add papers marked "selected={true}" to _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # set to true to show items from the _news folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # set to true to show your latest blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD researcher in Economics at **UNU-MERIT / Maastricht University**, supervised by Prof. Eleonora Nillesen. My research sits at the intersection of **gender economics**, **public economics and social policy**, and **development economics**, with a focus on how social norms, institutions and public policy shape women's labour market outcomes and the division of paid and unpaid work within households.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current projects study:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Gender norms and female labour force participation** across European countries.
+- **Parental leave reforms**, intrahousehold care dynamics and children's educational choices.
+- **Social norms, job attributes and the marriage market in Jordan**, in joint work with Eleonora Nillesen, Abdelrahman Nagy and Bruno Crépon.
+- **Militarisation and gender inequality**, using evidence from Ecuador's internal armed conflict.
+
+I am a member of UNU-MERIT's Social Protection and Development Economics research groups, the Dutch Development Economics network and the UNU Mainstreaming Gender in Research (MaGIR) network. Alongside the PhD, I work as an external researcher with the Florence School of Banking and Finance at the European University Institute, on credit innovations for women and on tax incentives in the EU Savings and Investments Union, and I contribute to UNICEF Evaluation Office's Youth Advisory Group.
+
+Before the PhD, I worked in banking supervision at the **European Central Bank** and as a Research Associate at the **European University Institute**. I hold an MSc in Public Policy and Human Development (_cum laude_) from UNU-MERIT / Maastricht University, where my thesis on gender norms and female labour force participation was First Runner-Up for the 2024 MORSE Thesis Award, as well as an MSc in Finance and a BSc in Economics from Nova School of Business and Economics.
+
+---
+
+Sou doutoranda em Economia na UNU-MERIT e na Universidade de Maastricht. A minha investigação centra-se na economia de género, nas políticas públicas e sociais e na economia do desenvolvimento.
