@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: PhD Fellow · <a href='https://www.merit.unu.edu'>UNU-MERIT</a> / <a href='https://www.maastrichtuniversity.nl'>Maastricht University</a>
 
