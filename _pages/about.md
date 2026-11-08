@@ -24,7 +24,7 @@ latest_posts:
 
 I am a PhD fellow in Economics at **UNU-MERIT / Maastricht University**. My research sits at the intersection of **gender economics**, **public economics and social policy**, and **development economics**, with a focus on how social norms, institutions and public policy shape women’s labour market outcomes and the division of paid and unpaid work within households.
 
-I combine quantitative and qualitative methods to investigate how socioeconomic behaviour is shaped within the boundaries of gender norms, using primarily collected and secondary data. My interests include women’s participation in the market and care economy, driven by a concern with how formal and informal institutions and power structures interact to constrain or enable women’s emancipation. 
+I combine quantitative and qualitative methods to investigate how socioeconomic behaviour is shaped within the boundaries of gender norms, using primarily collected and secondary data. 
 
 My current projects study:
 
@@ -33,6 +33,6 @@ My current projects study:
 - **Social norms, job attributes and the marriage market in Jordan**, financed by the International Growth Centre.
 - **Militarisation and gender inequality**, using evidence from Ecuador's internal armed conflict.
 
-I am a member of UNU-MERIT's Development Economics and Social Protection research groups, the Dutch Development Economics network and the UNU Mainstreaming Gender in Research (MaGIR) network. Alongside the PhD, I often work as an external researcher with the European University Institute and I contribute to UNICEF Evaluation Office's Youth Advisory Group.
+I am a member of UNU-MERIT's Development Economics and Social Protection research groups, and the Dutch Development Economics network. Alongside the PhD, I often work as an external researcher with the European University Institute and I contribute to UNICEF Evaluation Office's Youth Advisory Group.
 
 
