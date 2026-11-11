@@ -24,7 +24,7 @@ latest_posts:
 
 I am a PhD fellow in Economics at **UNU-MERIT / Maastricht University**. My research sits at the intersection of **gender economics**, **public economics and social policy**, and **development economics**, with a focus on how social norms, institutions and public policy shape women’s labour market outcomes and the allocation of paid and unpaid work within households.
 
-In my work, I combine quantitative and qualitative methods, using both primary and secondary data, driven by a concern with how formal and informal institutions and power structures constrain or enable women's emancipation.
+I combine quantitative and qualitative methods, using both primary and secondary data, driven by a concern with how formal and informal institutions and power structures constrain or enable women's emancipation.
 
 My current projects study:
 
