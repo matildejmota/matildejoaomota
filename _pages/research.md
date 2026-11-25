@@ -31,6 +31,14 @@ nav_order: 1
 
 ---
 
+## Policy writing
+
+**[Social Norms, Female Labour Force Participation, and Marriage Decisions in Jordan](https://www.theigc.org/sites/default/files/2026-08/Mota-Nillesen-Nagy-Crep%C3%B3n-Qutishat-Policy-Brief-July-2026.pdf)**
+<br>with Eleonora Nillesen (UNU-MERIT and Maastricht University), Abdelrahman Nagy (UNU-MERIT and International Initiative for Impact Evaluation), Bruno Crépon (ENSAE and J-PAL) and Ahmad Qutishat
+<br>_Policy brief, International Growth Centre, July 2026._ [[PDF]](https://www.theigc.org/sites/default/files/2026-08/Mota-Nillesen-Nagy-Crep%C3%B3n-Qutishat-Policy-Brief-July-2026.pdf)
+
+---
+
 ## Theses
 
 **Gender Norms and Female Labour Force Participation: Empirical Evidence from European Countries**
