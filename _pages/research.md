@@ -9,15 +9,15 @@ nav_order: 1
 
 ## Work in progress
 
-**Social Norms and Female Labour Force Participation in Jordan: The Role of Job Attributes**
+**Social norms and female labour force participation in Jordan: the role of job attributes**
 <br><span style="font-size: 0.85em; color: var(--global-text-color-light);">with Eleonora Nillesen (UNU-MERIT and Maastricht University), Abdelrahman Nagy (UNU-MERIT and International Initiative for Impact Evaluation) and Bruno Crépon (ENSAE and J-PAL)</span>
 
-**Social Norms and the Jordanian Marriage Market: Is There a Penalty for Working Women?**
+**Social norms and the Jordanian marriage market: is there a penalty for working women?**
 <br><span style="font-size: 0.85em; color: var(--global-text-color-light);">with Eleonora Nillesen (UNU-MERIT and Maastricht University), Abdelrahman Nagy (UNU-MERIT and International Initiative for Impact Evaluation) and Bruno Crépon (ENSAE and J-PAL)</span>
 
-**Breaking the Man Box: Parental Leave Reforms, Intrahousehold Care Dynamics, and Children's Educational Choices**
+**Breaking the man box: Parental leave reforms, intrahousehold care dynamics, and children's educational choices**
 
-**Gender Role Attitudes and Female Labour Force Participation: Empirical Evidence from European Countries**
+**Gender role attitudes and female labour force participation: Empirical evidence from European countries**
 <br><span style="font-size: 0.85em; color: var(--global-text-color-light);">with Franziska Gassmann (UNU-MERIT and Maastricht University)</span>
 
 <details style="margin: 0.3rem 0 1.2rem;">
@@ -25,14 +25,14 @@ nav_order: 1
 <p style="margin-top: 0.5rem; font-size: 0.85em; line-height: 1.6;">Drawing on identity economics, this paper examines whether gender role attitudes shape women's labour force participation across 27 European countries. Using three waves of the European Values Study (1990--2010), we construct a gender role attitudes index through factor analysis and estimate linear probability and two-stage least squares models, instrumenting attitudes with beliefs about casual sex. We find that a one-standard-deviation increase in traditional gender role attitudes reduces women's probability of participating in the labour force by approximately 8 percentage points, while the corresponding effect among men is negligible. Attitudes towards dual-earner households, housewifery and maternal employment are most strongly associated with participation. The relationship is more pronounced among married women and mothers, and weaker among women in low-income households despite their more traditional gender role attitudes. Traditional attitudes among women of the same country and birth cohort are negatively associated with women's decision to join the labour force. However, this peer effect disappears once women's own gender role attitudes are accounted for, suggesting that peer attitudes may partly operate through individual attitudes. By examining both individual and peer attitudes across European countries and over time, this paper provides new evidence on how social and cultural factors relate to women's economic decisions and, ultimately, gender convergence in labour market participation.</p>
 </details>
 
-**Militarisation and Gender Inequality: Evidence from Ecuador's Internal Armed Conflict**
+**Militarisation and gender inequality: Evidence from Ecuador's internal armed conflict**
 <br><span style="font-size: 0.85em; color: var(--global-text-color-light);">with Maria Paz Teran Almeida (UNU-MERIT and Maastricht University)</span>
 
 ---
 
 ## Policy writing
 
-**[Social Norms, Female Labour Force Participation, and Marriage Decisions in Jordan](https://www.theigc.org/sites/default/files/2026-08/Mota-Nillesen-Nagy-Crep%C3%B3n-Qutishat-Policy-Brief-July-2026.pdf)**
+**[Social norms, female labour force participation, and marriage decisions in Jordan](https://www.theigc.org/sites/default/files/2026-08/Mota-Nillesen-Nagy-Crep%C3%B3n-Qutishat-Policy-Brief-July-2026.pdf)**
 <br><span style="font-size: 0.85em; color: var(--global-text-color-light);">with Eleonora Nillesen (UNU-MERIT and Maastricht University), Abdelrahman Nagy (UNU-MERIT and International Initiative for Impact Evaluation), Bruno Crépon (ENSAE and J-PAL) and Ahmad Qutishat</span>
 <br><span style="font-size: 0.85em; color: var(--global-text-color-light);"><em>Policy brief, International Growth Centre, July 2026.</em> <a href="https://www.theigc.org/sites/default/files/2026-08/Mota-Nillesen-Nagy-Crep%C3%B3n-Qutishat-Policy-Brief-July-2026.pdf">[PDF]</a></span>
 
